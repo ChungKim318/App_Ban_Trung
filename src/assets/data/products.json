@@ -1,0 +1,104 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://image-sanpham-trung.s3.ap-southeast-1.amazonaws.com/trung_vit_bac_thao_3.PNG-1638608766153.png",
+  "ThuongHieu": "Trứng Tình Yêu",
+  "Gia": 25000,
+  "XepHang": 1,
+  "LuotDanhGia": 0,
+  "isFeatured": true,
+  "Ten": "Trứng vịt lạc",
+  "MoTa": "Trứng vịt lạc",
+  "PhanLoai": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "TonKho": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "",
+  "ThuongHieu": "Trứng Tình Yêu",
+  "Gia": 35000,
+  "XepHang": 5,
+  "LuotDanhGia": 0,
+  "AnTuong": true,
+  "Ten": "Trứng vịt lộn",
+  "MoTa": "trứng vịt lộn",
+  "PhanLoai": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "TonKho": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "",
+  "ThuongHieu": "Trứng Tình Têu",
+  "Gia": 15000,
+  "XepHang": 5,
+  "LuotDanhGia": 0,
+  "AnTuong": true,
+  "Ten": "Trứng gà ác",
+  "MoTa": "trứng gà ác",
+  "PhanLoai": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "TonKho": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d9b3e520d44421ed8e9d"
+  },
+  "image": "https://media.healthplus.vn/thumb_x650x382/Images/Uploaded/Share/2017/09/08/nhung-loai-trung-nen-an-de-tot-cho-suc-khoe11504842188.jpg",
+  "ThuongHieu": "Trứng Tình Yêu",
+  "Gia":20000,
+  "XepHang": 5,
+  "LuotDanhGia": 0,
+  "AnTuong": true,
+  "Ten": "Trứng gà ta lộn",
+  "MoTa": "trứng gà ta lộn",
+  "PhanLoai": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "TonKho": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://media.healthplus.vn/thumb_x650x382/Images/Uploaded/Share/2017/09/08/nhung-loai-trung-nen-an-de-tot-cho-suc-khoe11504842188.jpg",
+  "ThuongHieu": "Trứng Tình Yêu",
+  "Gia": 25000,
+  "XepHang": 5,
+  "LuotDanhGia": null,
+  "AnTuong": true,
+  "Ten": "Trứng gà ác lộn",
+  "MoTa": "Trứng gà ác lộn",
+  "PhanLoai": {
+    "$oid": "5f15d545f3a046427a1c26e2"
+  },
+  "TonKho": 2,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9c"
+  },
+  "image": "https://media.healthplus.vn/thumb_x650x382/Images/Uploaded/Share/2017/09/08/nhung-loai-trung-nen-an-de-tot-cho-suc-khoe11504842188.jpg",
+  "ThuongHieu": "Trứng Tình Yêu",
+  "Gia": 12000,
+  "XepHang": 5,
+  "LuotDanhGia": null,
+  "AnTuong": true,
+  "Ten": "Trứng cút",
+  "MoTa": "Trứng cút",
+  "PhanLoai": {
+    "$oid": "5f15d54cf3a046427a1c26e3"
+  },
+  "TonKho": 1000,
+  "__v": 0
+}
+]
